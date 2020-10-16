@@ -1,7 +1,6 @@
 const topMenu = document.getElementById('navbar__list');
 const sections = document.querySelectorAll('section');
 const navItems = document.getElementsByClassName("menu__link");
-const topButton = document.getElementById("button");
 
 const navBuilder = () => {
     let navCode = '';
