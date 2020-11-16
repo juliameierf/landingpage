@@ -18,6 +18,9 @@ body {
     color: #fff;
 }
 
+.your-active-class {
+background-color: green;
+}
 
 /* Typeography General*/
 h1 {
